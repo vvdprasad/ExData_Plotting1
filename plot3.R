@@ -1,5 +1,5 @@
 plot3.R <- function() {
-#   This function creates the Plot 1 as specified in the Course Project 1 for
+#   This function creates the Plot 3 as specified in the Course Project 1 for
 #   Exploratory Data Analysis
     
     # Read the CSV file. Instead of reading the entire data, read only the 
